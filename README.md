@@ -7,7 +7,7 @@ I’m a curious learner exploring the worlds of **C programming, Web Development
 
 ## 🌱 My Learning Journey
 - Started with **C programming** → experimenting with loops, arrays, and functions.  
-- Diving into **Web Development** → building interactive HTML/CSS pages.  
+- Diving into **Web Development** → building interactive HTML/CSS/JavaScript pages.  
 - Exploring **Python projects** → small games and problem-solving exercises.  
 
 ---
@@ -42,11 +42,10 @@ I’m a curious learner exploring the worlds of **C programming, Web Development
 
 ## 🌟 Let’s Connect
 - GitHub: [github.com/srushti-panara](https://github.com/srushti-panara)  
-- Email: your-email@example.com  
+- Email: srushtipanara1737@gmail.com
+- Linkedin: https://www.linkedin.com/in/srushti-panara-17032007p
 
 ---
 
 ✨ **“Every expert was once a beginner. Keep coding, keep exploring.”**
 
-# coders-portfolio
-Learning, experimenting, and building digital footprints
